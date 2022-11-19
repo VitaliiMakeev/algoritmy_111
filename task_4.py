@@ -23,6 +23,7 @@
 Примечание: ПРОШУ ВАС ВНИМАТЕЛЬНО ЧИТАТЬ ЗАДАНИЕ!
 """
 
+
 # Предположим такой словарь.
 users = [{'login': 'vagon@tron.ru', 'password': '1234qwer', 'activ': 1},
          {'login': 'marta@mail.ru', 'password': 'qwer1212', 'activ': 1},

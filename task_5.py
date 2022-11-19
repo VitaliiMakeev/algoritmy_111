@@ -20,8 +20,6 @@
 
 
 
-
-
 class Stack_of_Plates:
 
     def __init__(self):
